@@ -1,0 +1,9 @@
+{
+	"name": "himabazureproject",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8e6e503-baea-4095-9591-63f9482414c5",
+		"tenantId": "298e90e0-ee5a-4525-bf3d-b51e22490d83"
+	}
+}
